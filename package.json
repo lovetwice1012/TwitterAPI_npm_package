@@ -1,5 +1,5 @@
 {
-  "name": "twitter-api",
+  "name": "twitter-api-after-been-paid",
   "version": "0.0.1",
   "description": "Retrieve the number of followers and followings of a specified user even after twitter-api has been paid for",
   "main": "index.js",
