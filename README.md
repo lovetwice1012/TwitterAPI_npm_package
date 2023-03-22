@@ -19,4 +19,4 @@ getFF(userid)
 ```
 
 ### special thanks
-(TwitterAPI)[https://github.com/yuyutti/TwitterAPI] made by yuyutti
+[TwitterAPI](https://github.com/yuyutti/TwitterAPI) made by yuyutti
