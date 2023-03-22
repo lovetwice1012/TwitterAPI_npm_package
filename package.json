@@ -1,0 +1,28 @@
+{
+  "name": "twitter-api",
+  "version": "0.0.1",
+  "description": "Retrieve the number of followers and followings of a specified user even after twitter-api has been paid for",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovetwice1012/TwitterAPI_npm_package.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "lovetwice1012,yuyutti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovetwice1012/TwitterAPI_npm_package/issues"
+  },
+  "homepage": "https://github.com/lovetwice1012/TwitterAPI_npm_package#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
